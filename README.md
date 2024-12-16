@@ -16,7 +16,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
 
 1. Clone this repository:
 
-    ```
+    ```bash
     git clone https://github.com/marwan-ahmed-23/currency-converter.git
     cd currency-converter
     ```
@@ -29,7 +29,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
 
 2. Use the API to convert currencies:
 
-    ```
+    ```bash
     require_once 'CurrencyConverter.php';
 
     $converter = new CurrencyConverter();
