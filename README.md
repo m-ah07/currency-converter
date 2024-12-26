@@ -4,7 +4,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
 
 ---
 
-## Features
+## 🚀 Features
 - Supports multiple currencies.
 - Real-time exchange rates.
 - Lightweight and modular design.
@@ -12,7 +12,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
 
 ---
 
-## Installation
+## 🔧 Installation
 
 1. Clone this repository:
 
@@ -23,7 +23,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
 
 2. Include the `src` directory in your project.
 
-## Usage
+## 📖 Usage
 
 1. Include the `CurrencyConverter.php` file in your project.
 
@@ -37,18 +37,21 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
     echo "100 USD is equal to $rate EUR.";
     ```
 
-## Directory Structure
+## 📂 Directory Structure
 
 currency-converter/
 ├── src/
-│   └── CurrencyConverter.php   # Core conversion functionality
+│   └── CurrencyConverter.php
 ├── examples/
-│   └── example.php             # Sample usage of the API
-├── .gitignore                  # Git ignore file
-└── README.md                   # Documentation
+│   └── example.php
+├── LICENSE
+├── .gitignore
+└── README.md
 
-## Contribution
+## 🤝 Contribution
 
 Feel free to fork this repository and contribute to its development. Submit a pull request with your changes.
 
+## 🌟 Show Your Support
 
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
