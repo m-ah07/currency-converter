@@ -38,7 +38,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
     ```
 
 ## 📂 Directory Structure
-
+```plaintext
 currency-converter/
 ├── src/
 │   └── CurrencyConverter.php
@@ -47,6 +47,7 @@ currency-converter/
 ├── LICENSE
 ├── .gitignore
 └── README.md
+```
 
 ## 🤝 Contribution
 
