@@ -17,7 +17,7 @@ A lightweight and efficient **Currency Converter API** in PHP for real-time curr
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/currency-converter.git
+    git clone https://github.com/m-ah07/currency-converter.git
     cd currency-converter
     ```
 
